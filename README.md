@@ -1,5 +1,4 @@
 # INFM 600 Assignment 1
-## Senior Thesis Proposal
 ## Deadline: October 11, 2021
 
 ### Requirements
@@ -20,4 +19,4 @@ Your proposal should be at least 3000 words in length, with at least 15 referenc
 
 ### Submission
 
-Before you submit your proposal please make sure it is converted to PDF. Then, in the `proposal` repository, navigate to `Add File`, select `Upload Files` option, drag your PDF into the appropriate section, and click on `Commit Changes`.
+Before you submit your proposal please make sure it is converted to PDF. Then, in the `proposal` repository on GitHub's website, navigate to `Add File`, select `Upload Files` option, drag your PDF into the appropriate section, and click on `Commit Changes`.
