@@ -1,5 +1,6 @@
 # INFM 600 Assignment 1
 ## Senior Thesis Proposal
+## Deadline: October 11, 2021
 
 ### Requirements
 
